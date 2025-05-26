@@ -1,1 +1,31 @@
+body {
+  overflow: hidden;
+  background:rgb(56, 29, 56);
+}
+
+#paper {
+position:absolute;
+z-index:0;
+display:block;
+height:100%;
+width: 100%;  
+margin: 0;
+}
+
+div{
+position: fixed;
+z-index:-1;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+height: 100%;
+width: 100%;
+
+}
+
+.bg{ 
+background: radial-gradient(circle,orangered, rgba(11, 13, 135,1)); 
+}
+
 
