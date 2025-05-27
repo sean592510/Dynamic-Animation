@@ -30,7 +30,7 @@ bash
 git clone <repository-url>
 cd <repository-folder>
 
-Install Dependencies:
+###### Install Dependencies:
 Download Sketch.js and Snap.svg libraries and place them in a lib/ folder in your project directory, or include them via CDN in your HTML file.
 
 Example CDN links:
@@ -95,5 +95,4 @@ Snap.svg for SVG manipulation.
 
 Inspired by creative coding experiments in particle systems.
 
-Edit Image
 
